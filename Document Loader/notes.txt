@@ -1,0 +1,15 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning (ML) is a subset of Artificial Intelligence that enables computers to learn patterns from data instead of being explicitly programmed. Machine learning algorithms improve their performance as they are exposed to more data. Examples include spam detection, recommendation systems, fraud detection, and image recognition.
+
+Deep Learning (DL) is a specialized subset of Machine Learning that uses artificial neural networks with multiple hidden layers. Deep learning models automatically learn useful features from raw data and are particularly effective for image classification, speech recognition, and natural language processing.
+
+Natural Language Processing (NLP) is another field of AI that allows computers to understand, interpret, and generate human language. Applications include chatbots, translation systems, sentiment analysis, question answering, and text summarization.
+
+Computer Vision is an AI field that enables machines to interpret visual information from images and videos. It is widely used in self-driving cars, facial recognition, medical imaging, and industrial quality inspection.
+
+Generative AI refers to AI systems capable of creating new content such as text, images, audio, and code. Large Language Models (LLMs) like GPT, Claude, Gemini, and Mistral are examples of Generative AI models that can answer questions, write code, summarize documents, and assist users in various tasks.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with Large Language Models. Instead of relying only on the model's training data, RAG retrieves relevant documents from a knowledge base and provides them as context to the LLM. This approach improves accuracy, reduces hallucinations, and allows the model to answer questions using up-to-date or private information.
+
+A typical RAG pipeline consists of document loading, text splitting, embedding generation, storing embeddings in a vector database, retrieving relevant chunks using semantic similarity, and finally generating an answer using an LLM. Popular vector databases include Chroma, Pinecone, FAISS, and Weaviate.

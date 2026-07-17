@@ -1,0 +1,59 @@
+# ===========================
+# LLM & LangChain
+# ===========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-mistralai
+langchain-chroma
+
+# ===========================
+# Vector Database
+# ===========================
+chromadb
+
+# ===========================
+# Embedding Models
+# ===========================
+sentence-transformers
+langchain-huggingface
+
+# ===========================
+# Document Loaders
+# ===========================
+pypdf
+pymupdf
+unstructured
+python-docx
+pandas
+openpyxl
+
+# ===========================
+# Tokenization
+# ===========================
+tiktoken
+
+# ===========================
+# Environment Variables
+# ===========================
+python-dotenv
+
+# ===========================
+# Web API (Optional)
+# ===========================
+fastapi
+uvicorn
+
+# ===========================
+# Utilities
+# ===========================
+numpy
+requests
+pydantic
+
+# ===========================
+# Jupyter (Optional)
+# ===========================
+jupyter
+ipykernel
