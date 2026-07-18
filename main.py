@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from langchain_community.document_loaders import PyPDFLoader
-loader = PyPDFLoader(r"Document Loader\GRU.pdf")
+loader = PyPDFLoader(r"Document Loader\deeplearning.pdf")
 docs = loader.load()
 
 
